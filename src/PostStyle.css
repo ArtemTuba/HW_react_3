@@ -1,0 +1,34 @@
+.posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.post{
+    border: solid 1px black;
+    margin-top: 5px;
+    padding: 2%;
+    width: 200px;
+}
+
+.caption {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.modal{
+    padding: 2%;
+    margin: 0 auto;
+}
+
+button,
+input{
+    margin-right: 5px;
+}
+
+.query-result{
+    width: 300px;
+    margin: 0 auto;
+    font-size: 20px;
+   
+}
